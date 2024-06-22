@@ -13,6 +13,7 @@ public class All_variables
         System.out.println("my passion is "+passion);
         System.out.println("I m a "+level);//print global variable
         System.out.println("I secured"+prize);
+        System.out.println("Dhanya_sree2003");
     }
 
     public static void main(String[] args)
